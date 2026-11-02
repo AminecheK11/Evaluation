@@ -1,0 +1,14 @@
+ma\projet\classes\Produit.class
+ma\projet\classes\Commande.class
+ma\projet\util\HibernateUtil.class
+ma\projet\test\Main.class
+ma\projet\dao\IDao.class
+ma\projet\service\AbstractService.class
+ma\projet\test\TestStock.class
+ma\projet\classes\LigneCommandeProduit.class
+ma\projet\service\ProduitService.class
+ma\projet\service\LigneCommandeService.class
+ma\projet\classes\Categorie.class
+ma\projet\service\CategorieService.class
+ma\projet\service\CommandeService.class
+ma\projet\classes\LigneCommandeProduitId.class

@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: ma.projet.test.EtatCivilTest
+-------------------------------------------------------------------------------
+Tests run: 20, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.904 s -- in ma.projet.test.EtatCivilTest

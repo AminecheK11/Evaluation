@@ -1,0 +1,14 @@
+C:\Users\Asus\IdeaProjects\Evaluation_Hibernate_JPA\exercice1-stock\src\main\java\ma\projet\classes\Categorie.java
+C:\Users\Asus\IdeaProjects\Evaluation_Hibernate_JPA\exercice1-stock\src\main\java\ma\projet\classes\Commande.java
+C:\Users\Asus\IdeaProjects\Evaluation_Hibernate_JPA\exercice1-stock\src\main\java\ma\projet\classes\LigneCommandeProduit.java
+C:\Users\Asus\IdeaProjects\Evaluation_Hibernate_JPA\exercice1-stock\src\main\java\ma\projet\classes\LigneCommandeProduitId.java
+C:\Users\Asus\IdeaProjects\Evaluation_Hibernate_JPA\exercice1-stock\src\main\java\ma\projet\classes\Produit.java
+C:\Users\Asus\IdeaProjects\Evaluation_Hibernate_JPA\exercice1-stock\src\main\java\ma\projet\dao\IDao.java
+C:\Users\Asus\IdeaProjects\Evaluation_Hibernate_JPA\exercice1-stock\src\main\java\ma\projet\service\AbstractService.java
+C:\Users\Asus\IdeaProjects\Evaluation_Hibernate_JPA\exercice1-stock\src\main\java\ma\projet\service\CategorieService.java
+C:\Users\Asus\IdeaProjects\Evaluation_Hibernate_JPA\exercice1-stock\src\main\java\ma\projet\service\CommandeService.java
+C:\Users\Asus\IdeaProjects\Evaluation_Hibernate_JPA\exercice1-stock\src\main\java\ma\projet\service\LigneCommandeService.java
+C:\Users\Asus\IdeaProjects\Evaluation_Hibernate_JPA\exercice1-stock\src\main\java\ma\projet\service\ProduitService.java
+C:\Users\Asus\IdeaProjects\Evaluation_Hibernate_JPA\exercice1-stock\src\main\java\ma\projet\test\Main.java
+C:\Users\Asus\IdeaProjects\Evaluation_Hibernate_JPA\exercice1-stock\src\main\java\ma\projet\test\TestStock.java
+C:\Users\Asus\IdeaProjects\Evaluation_Hibernate_JPA\exercice1-stock\src\main\java\ma\projet\util\HibernateUtil.java
